@@ -7,4 +7,5 @@ One of my strengths is adaptability—I’ve quickly picked up and applied a wid
 
 Click below to learn more
 
-📫 [LinkedIn]( https://www.linkedin.com/in/cameron-ramsay-a331a136a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[LinkedIn]( https://www.linkedin.com/in/cameron-ramsay-a331a136a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[My website] (https://cameron2920.github.io/)
