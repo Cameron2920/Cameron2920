@@ -1,4 +1,4 @@
-# Backend & Infrastructure Engineer | Healthcare Tech | Ruby on Rails • AWS  • Redis • PostgreSQL
+### Backend & Infrastructure Engineer | Healthcare Tech | Ruby on Rails • AWS  • Redis • PostgreSQL
 
 Built event-driven systems, designed failover architectures (99.99% uptime), and scaled backend services for medical applications processing thousands in payments weekly.
 
